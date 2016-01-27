@@ -1,1 +1,1 @@
-This is the readme.txt file. This repo is a Pet Medicine site. It is a repo to help us learn Git.
+This is the readme file. This repo is a Pet Medicine site. It is a repo to help us learn Git.
